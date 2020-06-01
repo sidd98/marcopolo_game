@@ -1,11 +1,14 @@
 # marcopolo_game
 
+Pre-required : Nodejs, npm
+
 How to run marcopolo_game server
 
 1. git clone  https://github.com/sidd98/marcopolo_game.git
 2. go to marcopolo directory
 3. CMD -  npm install
 4. CMD -  npm run start
+5. provide input in params like localhost:4000/play?numbers=1000000
 
 #for test
 1. CMD - npm run test-dev
